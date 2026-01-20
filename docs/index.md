@@ -3,6 +3,10 @@
 Bienvenido 👋  
 Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) para cursos y proyectos.
 
+
+- this is a bullet
+1. 
+
 ---
 
 ## Empezar rápido (3 pasos)
@@ -12,3 +16,6 @@ Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Materia
    site_name: Documentación del Curso
    theme:
      name: material
+
+```
+Hi my name is oliver 
